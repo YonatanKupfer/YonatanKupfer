@@ -2,14 +2,15 @@
 
  I'm Yonatan Kupfer, a passionate fourth-year computer engineering student with a deep love for coding and for problem-solving. Welcome to my GitHub profile, where I document my work and projects.
 
-- Languages Spoken:
+*Languages Spoken:*
 
 * Python 🐍
 * C++ 🧑‍💻
 * Java ☕
 * Matlab 🧮
 
-- 🌱 Current Focus:
+
+*Current Focus:*
 * Computer Vision 👁️
 * Machine Learning 🤖
 * Algorithmics 🧠
