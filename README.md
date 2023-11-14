@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm Yonatan Kupfer, a passionate fourth-year computer engineering student with a deep love for coding and for problem-solving. Welcome to my GitHub profile, where I document my work and projects.
+I'm Yonatan Kupfer, a passionate fourth-year computer engineering student with a deep love for coding and problem-solving. Welcome to my GitHub profile, where I document my work and projects.
 
 *Languages Spoken:*
 
